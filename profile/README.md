@@ -16,7 +16,6 @@ Every project here ships with its code, its data and its full results, including
       <b><a href="https://github.com/multimodal-ai-engineering/preflight-bench">What Does “Now” Mean to Your Computer-Use Agent?</a></b><br>
       <sub>Stale screenshots, page loads, and which check to run before a click · 2026</sub>
       <p>Computer-use agents act on screenshots that go stale mostly in the first second after a page opens, and a one-second wait prevents most of it. Where a check is still needed, pixels verify where the target is and a small model verifies what happened.</p>
-      <a href="https://github.com/multimodal-ai-engineering/preflight-bench/blob/main/paper/paper.pdf">Paper</a> ·
       <a href="https://github.com/multimodal-ai-engineering/preflight-bench">Code and benchmark</a>
     </td>
   </tr>
