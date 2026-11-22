@@ -3,7 +3,13 @@
   <img src="assets/org-banner.png" width="100%" alt="Multimodal AI Engineering: open research, benchmarks and tools for multimodal AI systems that see, read and act.">
 </picture>
 
-Every project here ships with its code, its data and its full results, including the hypotheses that did not hold.
+Multimodal AI is being built right now, mostly by people figuring it out as they go. I am one of those people, and I love writing about it.
+
+This is a space where I share my research, open-source benchmarks you can rerun, and multimodal AI projects you can run and extend.
+
+Take what's valuable to you. Extend it. Tell me what you find.
+
+The best systems in this field are being built right now. Let's build them together, in the open. 🛠️
 
 ## Research
 
@@ -29,6 +35,7 @@ Every project here ships with its code, its data and its full results, including
 ## Book
 
 **[Data Engineering for Multimodal AI](https://www.oreilly.com/library/view/-/9781098190774/)** · O'Reilly, 2026
+<br>Runnable code for every chapter: **[The Playbooks](https://github.com/Data-Engineering-for-Multimodal-AI)**, 17 pipelines you can run on a laptop.
 
 <br>
 
