@@ -9,7 +9,7 @@ This is a space where I share my research, open-source benchmarks you can rerun,
 
 Take what's valuable to you. Extend it. Tell me what you find.
 
-The best systems in this field are being built right now. Let's build them together, in the open. 🛠️
+The best systems in this field are being built right now. Let's build them together, in the open. 🤗
 
 ## Research
 
