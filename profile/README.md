@@ -37,7 +37,7 @@ The best systems in this field are being built right now. Let's build them toget
       <b><a href="https://arxiv.org/abs/2604.12213">Modality-Native Routing in Agent-to-Agent Networks</a></b><br>
       <sub>A multimodal extension to the A2A protocol · 2026</sub>
       <p>When agents pass images and voice to each other as they are, instead of turning them into text first, task accuracy on a 50-task benchmark rose from 32% to 52%. The gain only appears when the receiving agent can reason over what it gets, and it costs 1.8 times the latency.</p>
-      <a href="https://arxiv.org/abs/2604.12213">Paper</a> · <a href="https://github.com/vasundras/modality-native-routing-a2a-protocol">Code</a>
+      <a href="https://arxiv.org/abs/2604.12213">Paper</a> · <a href="https://github.com/multimodal-ai-engineering/modality-native-routing-a2a-protocol">Code</a>
     </td>
   </tr>
 </table>
