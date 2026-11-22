@@ -11,11 +11,8 @@
 <br>
 
 Multimodal AI is being built right now, mostly by people figuring it out as they go. I am one of those people, and I love writing about it.
-
 This is a space where I share my research, open-source benchmarks you can rerun, and multimodal AI projects you can run and extend.
-
 Take what's valuable to you. Extend it. Tell me what you find.
-
 The best systems in this field are being built right now. Let's build them together, in the open. 🤗
 
 ## Research
