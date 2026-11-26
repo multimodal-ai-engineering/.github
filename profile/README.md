@@ -55,8 +55,8 @@ The best systems in this field are being built right now. Let's build them toget
 <table>
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/Data-Engineering-for-Multimodal-AI">The Playbooks</a></b><br>
-      <sub>Runnable companion code for <i>Data Engineering for Multimodal AI</i> (O'Reilly, 2026)</sub>
+      <b><a href="https://github.com/Data-Engineering-for-Multimodal-AI">Runnable Companion Code for <i>Data Engineering for Multimodal AI</i></a></b><br>
+      <sub>17 playbooks · O'Reilly, 2026</sub>
       <p>17 pipelines that ingest, align, store, search, serve and govern images, text, audio, video and sensor data. Each one starts with one command, opens in a Codespace, and comes with measured experiments to try.</p>
       <a href="https://github.com/Data-Engineering-for-Multimodal-AI">Pick a playbook</a>
     </td>
